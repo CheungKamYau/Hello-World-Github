@@ -1,2 +1,5 @@
 # Hello-World-Github
-hello
+
+Hello I am Cheung Kam Yau.
+
+My student ID is 1155176507.
